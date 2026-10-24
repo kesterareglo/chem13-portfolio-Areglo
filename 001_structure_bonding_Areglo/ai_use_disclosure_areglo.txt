@@ -1,0 +1,7 @@
+CHEM 13 — AI Use Disclosure
+
+AI tool used: ChatGPT (OpenAI).
+
+Use: I used AI assistance to help organize the infographic content, improve concise scientific wording, and prepare a draft layout. I remain responsible for checking the molecular structures, numerical properties, safety information, and references against credible scientific sources before submission.
+
+Verification reminder: The structural drawings in these infographic PDFs are simplified schematic illustrations. Verify the exact structures and substituent positions against PubChem or another authoritative chemical structure source before final submission.

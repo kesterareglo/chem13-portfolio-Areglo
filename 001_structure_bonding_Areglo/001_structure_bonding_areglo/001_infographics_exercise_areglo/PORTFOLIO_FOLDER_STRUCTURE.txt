@@ -1,0 +1,25 @@
+Required repository structure from the activity brief (replace lastname with your surname token):
+
+chem13-portfolio-lastname/
+|-- 001_structure_bonding_lastname/
+|   `-- 001_infographics_exercise_lastname/
+|       |-- 001_infographic_caffeine_areglo.pdf
+|       |-- 002_infographic_vanillin_areglo.pdf
+|       |-- 003_infographic_acetone_areglo.pdf
+|       |-- references_areglo.md
+|       |-- ai_use_disclosure_areglo.txt
+|       `-- README.md
+|-- 002_functional_groups_lastname/
+|-- 003_alkanes_cycloalkanes_lastname/
+|-- 004_stereochemistry_lastname/
+|-- 005_organic_reactions_lastname/
+|-- 006_alkyl_halides_lastname/
+|-- 007_alcohols_ethers_epoxides_lastname/
+|-- 008_alkenes_lastname/
+|-- 009_alkynes_aromatics_lastname/
+|-- 010_aldehydes_ketones_lastname/
+|-- 011_carboxylic_acids_derivatives_lastname/
+|-- 012_amines_biochemistry_lastname/
+`-- 013_reflections_applied_entries_lastname/
+
+Note: Empty folders may not appear in GitHub unless they contain a tracked file (for example, .gitkeep).
